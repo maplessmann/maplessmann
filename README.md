@@ -2,7 +2,7 @@
 
 🏢 &nbsp; I'm currently working at [Red Ventures](https://redventures.com/) as a Front-End Developer.
 
-⚛️ &nbsp; I have been developing awesome large-scale React applications for the past 3 years.
+⚛️ &nbsp; I have been developing awesome large-scale React applications for the past 3+ years.
 
 ✍️ &nbsp; I write about programming on my blog [matheusplessmann.com](http://matheusplessmann.com/).
 
