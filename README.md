@@ -1,22 +1,8 @@
-### Hi there!!! 👋
+### Hi there! I'm Matheus 👋
 
-My name is Matheus Plessmann. I'm a Front-End Developer with a solid experience in JavaScript and React applications. Passionate about learning and sharing knowledge.
-
-👨🏻‍💻 I'm currently working with JavaScript, React, Gatsby, GraphQL, Webpack, Redux, Node.js, Sass, and other cool stuff 😎
-
-✍🏻 I love to write about programming on my blog [matheusplessmann.com](http://matheusplessmann.com/)
-
-<!--
-**maplessmann/maplessmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm currently working at [Red Ventures](https://redventures.com/) as a Front-End Developer.
+- I have been developing awesome large-scale React applications for the past 3 years.
+- I write about programming on my blog [matheusplessmann.com](http://matheusplessmann.com/).
+- I have been working with JavaScript, React, Gatsby, GraphQL and Redux.
+- I love to mentor other developers.
+- I'm passionate about programming and that's what I've been doing for the last 5+ years.
