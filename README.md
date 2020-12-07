@@ -4,7 +4,7 @@
 
 ⚛️ &nbsp; I have been developing awesome large-scale React applications for the last 3+ years
 
-✍️ &nbsp; I write about programming on my blog [matheusplessmann.com](http://matheusplessmann.com/)
+✍️ &nbsp; I write about programming on my blog [matheusplessmann.com](https://matheusplessmann.com/)
 
 ⚙️ &nbsp; I have been working with JavaScript, React, Gatsby, GraphQL and Redux
 
