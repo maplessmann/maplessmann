@@ -6,7 +6,7 @@
 
 ✍️ &nbsp; I write about programming on my blog [matheusplessmann.com](https://matheusplessmann.com/)
 
-⚙️ &nbsp; I have been working with JavaScript, React, Gatsby, GraphQL and Redux
+⚙️ &nbsp; I've been working with JavaScript, React, Gatsby, GraphQL and Redux
 
 👨‍🏫 &nbsp; I love to mentor other developers
 
