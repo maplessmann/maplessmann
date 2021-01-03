@@ -10,7 +10,7 @@
 
 👨‍🏫 &nbsp; I love to mentor other developers
 
-👨‍💻 &nbsp; I'm passionate about programming and that's what I've been doing for the last 5+ years
+👨‍💻 &nbsp; I'm passionate about programming and that's what I've been doing for the last 6 years
 
 📩 &nbsp; You can find me on [LinkedIn](https://www.linkedin.com/in/matheus-plessmann/) or [send me an email](mailto:maplessmann@gmail.com)
 
