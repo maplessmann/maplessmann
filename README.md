@@ -1,6 +1,6 @@
 ### Hi there! 👋  &nbsp; I'm Matheus
 
-🏢 &nbsp; I'm currently working remotely at [Celerative](https://celerative.com/) as a Front-End Developer
+🏢 &nbsp; I'm currently working at [Celerative](https://celerative.com/) as a Senior Frontend Developer
 
 ⚛️ &nbsp; I have been developing large-scale React applications for the last 3+ years
 
