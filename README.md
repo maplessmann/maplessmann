@@ -2,7 +2,7 @@
 
 🏢 &nbsp; I'm currently working at [Celerative](https://celerative.com/) as a Senior Frontend Developer
 
-⚛️ &nbsp; I have been developing large-scale React applications for the last 3+ years
+⚛️ &nbsp; I have been developing large-scale React applications for the last 4+ years
 
 ✍️ &nbsp; I write about programming on my blog [matheusplessmann.com](https://matheusplessmann.com/)
 
