@@ -2,7 +2,7 @@
 
 🏢 &nbsp; I'm currently working at [Atoms](https://atoms.com/) as a Senior Frontend Engineer
 
-⚛️ &nbsp; I have been developing large-scale React applications for the last 4+ years
+⚛️ &nbsp; I have been developing large-scale React applications for the last 5+ years
 
 ⚙️ &nbsp; I've been working with JavaScript, React, Next.js, Gatsby, GraphQL and Node.js
 
